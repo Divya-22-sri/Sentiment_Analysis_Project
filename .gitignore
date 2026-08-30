@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment files
+.env
+
+# Dataset
+dataset/*.csv
+dataset/*.zip
+
+# Temporary files
+*.txt
